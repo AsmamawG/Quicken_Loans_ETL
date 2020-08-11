@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Lendingwise_MySQL"
+  DTS:DTSID="{30291CFD-51BF-4791-9ABE-10263A6C06CD}"
+  DTS:CreationName="ADO.NET:MySql.Data.MySqlClient.MySqlConnection, MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d">
+  <DTS:PropertyExpression
+    DTS:Name="ConnectionString">@[$Project::Lendingwise]</DTS:PropertyExpression>
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="server=100.36.220.45;user id=dunassis;port=3306;database=lendingwise;">
+      <DTS:Password
+        DTS:Name="password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA16wuJtn2KEKjzCLRt97syAAAAAACAAAAAAAQZgAAAAEAACAAAACgp7RM/KLbs4AGqisczivBlwOq0QJRJs6JMnzhSBlB+QAAAAAOgAAAAAIAACAAAAAXFrauDgNq0RONL7lbUAGew99XPqndtnaTdaODqHVhF4AAAAARovI4v6Dhn9hlAJSZLg2cU9g9S3ueIJrgu7GflKmcyXi2xFAyNqSZ0UPR6213+uG/LECT2Rbz31T/VS59OxW6B4h2Fqgk3aCSUi2y8QahzpQoqc3as+7tcT7T2WlLTQnRdG3t2YFlRX3u6lxRieDibYKKTUQKgtZovQJS0K9Bi0AAAADjJt0Mg1luQW7YeG+kuhDIR4BZqi9d75inM9WSLPGg3rP9kARX08otTzGdlMdQ78qePL4wbVBhc4f+c0qXhOW0</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
