@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="3/18/2020 7:26:43 PM"
@@ -7,12 +7,12 @@
   DTS:CreatorName="DESKTOP-75JHIV1\Teddy"
   DTS:DTSID="{106CB5FC-F802-4F65-B086-DF08DE719A1D}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.0900.40"
+  DTS:LastModifiedProductVersion="15.0.2000.123"
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_UberWriter"
   DTS:PackageType="5"
   DTS:VersionBuild="1"
-  DTS:VersionGUID="{1D827788-F5BB-4D6D-A725-627D690F8FFF}">
+  DTS:VersionGUID="{A34E51B2-A71A-4397-B7C9-5AD98937E5D4}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

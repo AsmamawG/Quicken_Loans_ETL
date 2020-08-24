@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ObjectName="QuickenLoans"
   DTS:DTSID="{F7E75C13-A39A-4512-AABC-CCB24613B13E}"

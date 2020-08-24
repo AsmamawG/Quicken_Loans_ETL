@@ -7,11 +7,11 @@
   DTS:CreatorName="DESKTOP-75JHIV1\Teddy"
   DTS:DTSID="{70C3DA83-D472-4089-88B3-2BB92C31CF21}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.0900.40"
+  DTS:LastModifiedProductVersion="15.0.2000.123"
   DTS:LocaleID="1033"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionGUID="{5A9EA5C7-55D0-46C0-99A8-7732FEE2451F}">
+  DTS:VersionGUID="{971B8880-EE16-40E0-AF70-91B90600E471}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

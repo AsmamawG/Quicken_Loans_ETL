@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="3/18/2020 7:22:47 PM"
@@ -7,12 +7,12 @@
   DTS:CreatorName="DESKTOP-75JHIV1\Teddy"
   DTS:DTSID="{FDF3E5BC-4DA6-4246-BD5E-7FD588EBDF1E}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.0900.40"
+  DTS:LastModifiedProductVersion="15.0.2000.123"
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_LendingWise"
   DTS:PackageType="5"
   DTS:VersionBuild="1"
-  DTS:VersionGUID="{D2671EC0-7FCC-4CF4-8D3D-C17FA4D7F313}">
+  DTS:VersionGUID="{5E495A18-2773-4BEB-A18B-F1068CEC7B72}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

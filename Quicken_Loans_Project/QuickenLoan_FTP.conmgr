@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ObjectName="QuickenLoan_FTP"
   DTS:DTSID="{51B6A7A2-203F-44A6-A50F-A15687E406AB}"
@@ -10,11 +10,10 @@
       DTS:ConnectionString="100.36.220.45:21">
       <DTS:FtpConnection
         DTS:ServerName="100.36.220.45"
-        DTS:ServerUserName="dunaftpuser"
-        DTS:UsePassiveMode="False">
+        DTS:ServerUserName="dunaftpuser">
         <DTS:Property
           DTS:Name="ServerPassword"
-          Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiloOD/hxekKM0M6Up1F1NwAAAAACAAAAAAAQZgAAAAEAACAAAACQxYCZTe5EYbNJmxTzvS6+t8QYAugF/fngBFijZ9FGnwAAAAAOgAAAAAIAACAAAACIx8uiugwJEPKw2v6SFkNOhMtxsxMyQxf/quUiMr/39oAAAAAoH6YJ9N9rnEpLkGdSF1hA7zJM94UfPW7/hESxp+iUTJsc6lxjMOAWaTkGTHyk3ghhj7FGdGfnHRcSc1AiFHtgHdz9P+xwWA1BihfZnwk7w4mOKGRP6Nsol2k/pezMGhsOg+gArx90f/WZQnEGRON/kldbU4wyINzhTt4Zlpbc2kAAAABy+duJsr/9XIhYJl6tU6//TN0JARsIwYDMZNWovW9Jb7B0SoURRNMNdLtG38Tfw5xy3qF1xEPpAdJXeZ2te6Fn</DTS:Property>
+          Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANIYGUnLnC0Cz7/b+yaT8uAAAAAACAAAAAAAQZgAAAAEAACAAAAC+zeq05eJvZZ3MfuaLn1SfR1zksnJdXuIk/I8ro/3yhgAAAAAOgAAAAAIAACAAAAD8mWNOaGRsSxLuQeQurVXdmEJm9juUqPcyDRXuIcdAx4AAAABcRbdkSyMHNjlqWD16zctuI/jjdZ2dlBVVriJVYjgQ5XOv110vxwe6e7rTTxw0yMsDfc8nhlDyrN3NAEcit6uR3bVQ50e81K8Ol5KButqeDuewgEW0hrqU51n2gA72/NpYjmaYJAyR8J8CgqzEcP68bPLv9qLSoEF1mlOl/u0naEAAAACOVJM0Pger6MK/mZ1skb1ow5U0bus16uXTPVETYqKuN+Mni008hZR4RCAIftPYn5/dd7irWgSiTY/XOfsbIHNU</DTS:Property>
       </DTS:FtpConnection>
     </DTS:ConnectionManager>
   </DTS:ObjectData>

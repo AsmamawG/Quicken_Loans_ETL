@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="3/18/2020 7:22:55 PM"
@@ -7,12 +7,12 @@
   DTS:CreatorName="DESKTOP-75JHIV1\Teddy"
   DTS:DTSID="{1C957039-FFFC-42CF-BEAA-42EEE76E8E45}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.0900.40"
+  DTS:LastModifiedProductVersion="15.0.2000.123"
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_SimpleNexus"
   DTS:PackageType="5"
   DTS:VersionBuild="1"
-  DTS:VersionGUID="{75DFF9BA-14A3-4CEB-9F3F-9A8F9D67F016}">
+  DTS:VersionGUID="{6F056F41-3C23-4681-B2A5-19EF18D487A9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

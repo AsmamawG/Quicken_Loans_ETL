@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="3/18/2020 7:22:53 PM"
@@ -7,12 +7,12 @@
   DTS:CreatorName="DESKTOP-75JHIV1\Teddy"
   DTS:DTSID="{449236E7-D164-46E2-9A70-FE88176C5D8A}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.0900.40"
+  DTS:LastModifiedProductVersion="15.0.2000.123"
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_ LendingPad"
   DTS:PackageType="5"
   DTS:VersionBuild="1"
-  DTS:VersionGUID="{F76D4D39-4979-42A4-ADA7-C51E88D506F5}">
+  DTS:VersionGUID="{D5BB3946-1C87-4BAB-83E1-92085E8C10FB}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
